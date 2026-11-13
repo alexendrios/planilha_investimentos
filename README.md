@@ -137,6 +137,6 @@ A célula de perfil é combinada com o tipo de FII para formar uma **chave** de 
 
 Projeto desenvolvido como parte da Formação DIO.
 
-- Nome: _seu nome_
-- LinkedIn: _seu perfil_
-- GitHub: _seu perfil_
+- Nome: Alexandre Pereira Santos
+- LinkedIn: [Alexandre Santos](https://www.linkedin.com/in/alexendrios/)
+- GitHub: [Alexandre Santos](https://github.com/alexendrios)
